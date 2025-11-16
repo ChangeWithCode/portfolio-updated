@@ -1,0 +1,9 @@
+Muhammad Qasim - Resume
+
+This is a placeholder file for your resume PDF.
+
+Please replace this file with your actual resume PDF:
+1. Name it: Muhammad_Qasim_Resume.pdf
+2. Place it in: public/assets/Muhammad_Qasim_Resume.pdf
+
+The download button will automatically link to this file.
